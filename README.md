@@ -5,7 +5,15 @@ C'est un automate cellulaire : une grille à deux dimensions dont les cases peuv
 
 ## Pour commencer
 
+```
+Bientôt disponible
+```
+
 ### **Pré-requis**
+
+```
+Bientôt disponible
+```
 
 ### **Installation**
 
@@ -14,6 +22,10 @@ Bientôt disponible
 ```
 
 ## Démarrage
+
+```
+Bientôt disponible
+```
 
 ## Frabriqué avec
 
