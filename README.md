@@ -17,6 +17,8 @@ Bientôt disponible
 
 ## Frabriqué avec
 
+- [Visual Studio Code](https://code.visualstudio.com/) - Editeur de code
+- [Atom](https://atom.io/)- Editeur de textes
 ## Contributing
 
 ## Versions
