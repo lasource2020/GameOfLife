@@ -41,3 +41,5 @@ Bientôt disponible
 - Matteo Paolini alias @Shiryu411
 
 ## License
+
+Ce projet est sous licence ```WTFTPL``` - voir le fichier [LICENSE.md]() (Bientôt disponible) pour plus d'informations
