@@ -36,8 +36,8 @@ Bientôt disponible
 **Dernière version stable** : x **Dernière version** : x Liste des versions : [Cliquer pour afficher](https://github.com/lasource2020/GameOfLife/projects/tags)
 ## Auteurs
 
-- Many Afaghpour alias @manyafaghpour
-- Andreas Chatel alias @999-andreas
-- Matteo Paolini alias @Shiryu44
+- Many Afaghpour alias @ manyafaghpour
+- Andreas Chatel alias @ 999-andreas
+- Matteo Paolini alias @ Shiryu44
 
 ## License
