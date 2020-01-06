@@ -1,8 +1,8 @@
-# GameOfLife
-Pour l'installation de GOL (GameOfLife) : 
-- exécuter le fichier requirements.txt (bientôt disponible) 
-- installer la dernière version de python (3.8.1)
-- exécuter Game Of Life.exe (bientôt disponible)
+#À propos du GameOfLife
+
+
+#Téléchargement/Installation
+- exécuter GameOfLife.exe (bientôt disponible)
 
 
 Description : 
