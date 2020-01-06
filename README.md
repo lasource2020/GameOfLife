@@ -33,7 +33,7 @@ Bientôt disponible
 - [Atom](https://atom.io/) - Editeur de textes
 
 ## Versions
-**Dernière version stable** : x **Dernière version** : x Liste des versions : [Cliquer pour afficher](https://github.com/lasource2020/GameOfLife/projects/tags)
+**Dernière version stable** : x **Dernière version** : x Liste des versions : [Cliquer pour afficher]() (Bientôt disponible)
 ## Auteurs
 
 - Many Afaghpour alias @manyafaghpour
