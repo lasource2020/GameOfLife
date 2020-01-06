@@ -1,4 +1,4 @@
-# À propos de GameOfLife :books:
+# À propos de GameOfLife 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) 
 
 C'est un automate cellulaire : une grille à deux dimensions dont les cases peuvent prendre deux états distincts : « vivante » ou « morte ». Ces derniers sont régies par trois [règles](https://pastebin.com/esyTU5TD). 
