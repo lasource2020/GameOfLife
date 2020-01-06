@@ -30,10 +30,14 @@ Bientôt disponible
 ## Frabriqué avec
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Editeur de code
-- [Atom](https://atom.io/)- Editeur de textes
+- [Atom](https://atom.io/) - Editeur de textes
 
 ## Versions
-**Dernière version stable** : x **Dernière version** : x Liste des versions : [Cliquer pour afficher](https://github.com/lasource2020/GameOfLife/projects/1#column-7598714)
+**Dernière version stable** : x **Dernière version** : x Liste des versions : [Cliquer pour afficher](https://github.com/lasource2020/GameOfLife/projects/tags)
 ## Auteurs
+
+- Many Afaghpour alias @manyafaghpour
+- Andreas Chatel alias @999-andreas
+- Matteo Paolini alias @Shiryu44
 
 ## License
