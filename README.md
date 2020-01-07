@@ -42,4 +42,4 @@ Bientôt disponible
 
 ## License
 
-Ce projet est sous licence ```WTFTPL``` - voir le fichier [LICENSE.md](LICENSE.md) (Bientôt disponible) pour plus d'informations
+Ce projet est sous licence ```MIT License``` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
