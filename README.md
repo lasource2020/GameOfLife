@@ -27,7 +27,7 @@ Bientôt disponible
 Bientôt disponible
 ```
 
-## Frabriqué ave
+## Frabriqué avec
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Editeur de code
 - [Atom](https://atom.io/) - Editeur de textes
